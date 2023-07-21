@@ -1,0 +1,24 @@
+#div1{
+    width: 100%;
+}
+#start{
+    background-color: #85FFBD;
+    background-image: linear-gradient(#85FFBD 0%, #FFFB7D 100%);
+    color: black;
+    width: 200px;
+}
+#no_of_items{
+    color: black;
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+    width: 200px;
+}
+canvas{
+    border-radius: 100%;
+    border: 5px solid #efd5ff;
+    margin-bottom: 120px;
+    margin-left: 400px;
+}
+body{
+    background-image: url(background.jpg);
+}
